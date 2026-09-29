@@ -4,7 +4,7 @@ use App\Http\Controllers\MahasiswaController;
 use App\Http\Controllers\PresensiController;
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('presensi');
 });
 
 Route::resource('mahasiswa', MahasiswaController::class);
