@@ -57,3 +57,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+=============================================
+SISTEM PRESENSI DIGITAL - KELOMPOK ...
+=============================================
+
+Anggota Kelompok:
+1. Alpina26 — NIM (241051111)
+2. Intan Surya24 — NIM (24105111132)
+3. anisanispa53  — NIM (24105111124)
